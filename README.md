@@ -34,6 +34,7 @@ David hat bereits ein Tik-Tak-Toe Programmiert. Er konnte mir Aus diesem Grund e
 https://www.c-sharpcorner.com/UploadFile/1e050f/creating-tic-tac-toe-step-by-step/
 
 - [X] **Mit dem Projekt Tic-Tac-Toe anfangen**
+
 Ich habe zum ersten Mal ein winForms Projekt erstellt. Als ich die Toolbox öffnete war ich überrascht wie viele Dinge und Grafiken man einfügen kann. Ich habe in dieser Sekunde viele Ideen bekommen. Das Tutorial ist nicht vollständig meiner meinung nach. Ich muss viel anpassen und viel Variabeln definieren. Es ist einfach nicht sehr beginner freundlich aber ich habe jetzt wenigstens ein 3x3 Feld mit dem ich Arbeiten kann.
 
 **31.10.2023**
