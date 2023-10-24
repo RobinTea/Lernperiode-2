@@ -36,6 +36,12 @@ https://www.c-sharpcorner.com/UploadFile/1e050f/creating-tic-tac-toe-step-by-ste
 - [X] **Mit dem Projekt Tic-Tac-Toe anfangen**
 
 Ich habe zum ersten Mal ein winForms Projekt erstellt. Als ich die Toolbox öffnete war ich überrascht wie viele Dinge und Grafiken man einfügen kann. Ich habe in dieser Sekunde viele Ideen bekommen. Das Tutorial ist nicht vollständig meiner meinung nach. Ich muss viel anpassen und viel Variabeln definieren. Es ist einfach nicht sehr beginner freundlich aber ich habe jetzt wenigstens ein 3x3 Feld mit dem ich Arbeiten kann.
+Ich fühle mich ein bisschen überfordert mit Informationen z.B weiss ich nicht wieso diese Funktion so kommisch vorgegeben wird;
+
+      private void Form1_Load(object sender, EventArgs e)
+      {
+
+      }
 
 **31.10.2023**
 - [ ] **Text**
