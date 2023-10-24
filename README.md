@@ -12,7 +12,7 @@ Dies sind die vorgegebenen Ziele für die 2. Lernperiode
 _________________________________________________________________________________________________________________________________________________________________________________
 
 **24.10.2023**
-- [x] @@Ein Projekt finden@@ (inspirieren lassen)
+- [x] **in Projekt finden (inspirieren lassen)**
 
 Die Vorlagen in Teams von der alten Kantonsschule Aagau, beschäftigen sich viel mit berechnungen von Geld (z.B. Währungsrechner) doch keines hat wirklich mich
       angesprochen. Deshalb habe ich mich beschlossen etwas neues zu machen. Ich will etwas mit winForms machen. Ein paar meiner Kollegen haben schon bereits damit
@@ -25,14 +25,27 @@ Ich werde bei den Projekten zusätzliche features einfügen damit nicht alles nu
       - Fremde Codes verstehen und anpassen
       - Programmieren mit einem Partner (erst das zweite Projekt)
       
-- [x] Ein Tutorial für das 3-gewinnt Spiel suchen
+- [x] **Ein Tutorial für das 3-gewinnt Spiel suchen**
 
 David hat bereits ein Tik-Tak-Toe Programmiert. Er konnte mir Aus diesem Grund eine Webseite empfehlen.
 
-- [ ] Text
+
+
+https://www.c-sharpcorner.com/UploadFile/1e050f/creating-tic-tac-toe-step-by-step/
+
+- [X] **Mit dem Projekt Tic-Tac-Toe anfangen**
+Ich habe zum ersten Mal ein winForms Projekt erstellt. Als ich die Toolbox öffnete war ich überrascht wie viele Dinge und Grafiken man einfügen kann. Ich habe in dieser Sekunde viele Ideen bekommen. Das Tutorial ist nicht vollständig meiner meinung nach. Ich muss viel anpassen und viel Variabeln definieren. Es ist einfach nicht sehr beginner freundlich aber ich habe jetzt wenigstens ein 3x3 Feld mit dem ich Arbeiten kann.
 
 **31.10.2023**
-- [ ] Text
+- [ ] **Text**
+
+
+
+
+
+
+
+
 
 
 hier ein Experiment mit farben in github readme.md
