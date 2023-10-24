@@ -26,7 +26,6 @@ Ich werde bei den Projekten zusätzliche features einfügen damit nicht alles nu
       - Programmieren mit einem Partner (erst das zweite Projekt)
       
 - [x] Ein Tutorial für das 3-gewinnt Spiel suchen
-
 David hat bereits ein Tik-Tak-Toe Programmiert. Er konnte mir Aus diesem Grund eine Webseite empfehlen.
 
 - [ ] Text
