@@ -44,7 +44,10 @@ Ich fühle mich ein bisschen überfordert mit Informationen z.B weiss ich nicht 
       }
 
 **31.10.2023**
-- [ ] **Text**
+- [ ] **das X und O erscheinen wenn man darauf kliclkt**
+- [ ] **es muss abwechselnd sein**
+- [ ] **es erkennt den gewinner**
+- [ ] **es resettet sich**
 
 
 
