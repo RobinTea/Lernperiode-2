@@ -49,6 +49,7 @@ Ich fühle mich ein bisschen überfordert mit Informationen z.B weiss ich nicht 
 - [ ] **es erkennt den gewinner**
 - [ ] **es resettet sich**
 
+Es gab eine Planänderung und ich habe mit David unser Snake Projekt angefangen(er hatte sonst nichts mehr zu tun). Wir mussten leider feststellen das winForm Projekte nicht von "Liveshare" unterstützt wird. wir haben aus diesem Grund uns beschlossen das wir das Projekt gleichzeitig machen, dass in Falle eines Fehlers, man abgleichen kann. Wir haben uns zusammengesetzt und haben angefangen das 1h 22min lange Tutorial zu absolvieren (https://www.youtube.com/watch?v=uzAXxFBbVoE). Ich habe verschiedened Klassen erstellt und der Typ im Video hat uns die Theorie erklährt. es sind eigentlich farbige Kästchen die ihr Aussehen verändern und so die Ilusion entsteht das sich eine Schlange bewegt. 
 
 
 
