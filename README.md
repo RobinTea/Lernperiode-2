@@ -54,6 +54,7 @@ Es gab eine Planänderung und ich habe mit David unser Snake Projekt angefangen(
 **07.11.2023**
 - [X] Da schon am Donnerstag abgabe ist, möchte ich am E-Protfolio für 319 weiterarbeiten. (Passende Bilder hinzufügen)
 - [ ] die ungefüllten Lernziele ausfüllen
+      Es gab immer noch ein paar Punkte die wir noch nie in der Klasse angeschaut haben. Es ist nicht sehr toll den wir müssne uns           selbst informieren. Das hat mir viel Zeit gekostet und ich konnte so nicht fertig werden. Aber ich bin dehr viel weiter                gekommen. Dank dieser Stunden konnte ich meine Arbeit reduzieren.
 - [X] schöner Formatieren
 - [ ] wenn fertig an snake weiterarbeiten.
 
