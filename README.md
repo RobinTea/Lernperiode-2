@@ -51,11 +51,13 @@ Ich fühle mich ein bisschen überfordert mit Informationen z.B weiss ich nicht 
 
 Es gab eine Planänderung und ich habe mit David unser Snake Projekt angefangen(er hatte sonst nichts mehr zu tun). Wir mussten leider feststellen das winForm Projekte nicht von "Liveshare" unterstützt wird. wir haben aus diesem Grund uns beschlossen das wir das Projekt gleichzeitig machen, dass in Falle eines Fehlers, man abgleichen kann. Wir haben uns zusammengesetzt und haben angefangen das 1h 22min lange Tutorial zu absolvieren (https://www.youtube.com/watch?v=uzAXxFBbVoE). Ich habe verschiedened Klassen erstellt und der Typ im Video hat uns die Theorie erklährt. es sind eigentlich farbige Kästchen die ihr Aussehen verändern und so die Ilusion entsteht das sich eine Schlange bewegt. 
 
-**07.11.2023**
+**07.11.2023 / OPL**
 - [X] **Da schon am Donnerstag abgabe ist, möchte ich am E-Protfolio für 319 weiterarbeiten. (Passende Bilder hinzufügen)**
 - [ ] **die ungefüllten Lernziele ausfüllen**
       Es gab immer noch ein paar Punkte die wir noch nie in der Klasse angeschaut haben. Es ist nicht sehr toll den wir müssne uns           selbst informieren. Das hat mir viel Zeit gekostet und ich konnte so nicht fertig werden. Aber ich bin dehr viel weiter                gekommen. Dank dieser Stunden konnte ich meine Arbeit reduzieren.
 - [X] **schöner Formatieren**
+      Ich bin nicht Fan vom Programm "Moodle". Ich wär föhlicher wenn es ähnlich wie z.B. Word wäre. Ich kann zum glück die 
+      Schriftgrösse der wörter verändern.
 - [ ] **wenn fertig an snake weiterarbeiten.**
 
 
