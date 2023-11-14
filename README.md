@@ -63,7 +63,7 @@ Es gab eine Planänderung und ich habe mit David unser Snake Projekt angefangen(
 
 **14.04.23**
 - [ ] **Verschlüsselung Fixen** Hat noch nicht so funktioniert. https://github.com/ZTCKamikaze/ProjectD hier ist das repo
-- [ ] **Debuggen** Sind dran
+- [ ] **Debuggen** Sind dran/in Verarbeitung
 
 |Eingabe|Verarbeitung|Ausgabe|
 |-------|------------|-------|
