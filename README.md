@@ -61,7 +61,10 @@ Es gab eine Planänderung und ich habe mit David unser Snake Projekt angefangen(
 - [ ] **wenn fertig an snake weiterarbeiten.**
 
 
-
+**14.04.23**
+- [ ] **Verschlüsselung Fixen** Hat noch nicht so funktioniert.
+- [ ] **Debuggen** Sind dran
+- [ ] **Andere Verschlüsselung**
 
 
 
