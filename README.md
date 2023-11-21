@@ -70,9 +70,12 @@ Es gab eine Planänderung und ich habe mit David unser Snake Projekt angefangen(
 |Text und Schlüssel|Verschlüsselung Entschlüsselung|Verarbeiteter Text|
 
 
-- [ ] **Andere Verschlüsselung** 
+- [ ] **Andere Verschlüsselung** Wir haben noch nicht nagefangen die Vinére Verschlüsselung zu programmieren.
 
-
+**21.11.23**
+- [ ] **Am Snake Tutorial die Arbeit Fortsetzen**
+- [ ] **Code verstehen**
+- [ ] 
 
 
 hier ein Experiment mit farben in github readme.md
