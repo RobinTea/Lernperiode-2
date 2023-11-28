@@ -77,10 +77,13 @@ Es gab eine Planänderung und ich habe mit David unser Snake Projekt angefangen(
 - [ ] **Code verstehen** WinFonms ist neuland für mich und dauert deshalb länger, ich bin nicht so weit gekommen wie ich wollte.
 
 **28.11.23**
-- [ ] **Den Fehler im Snake Programm fixen(Button macht nicht das was er sollte)** Es lag dann am Schluss an einem Syntax Fehler. Ich habe mich wohl iergendwann verschrieben
+- [X] **Den Fehler im Snake Programm fixen(Button macht nicht das was er sollte)** Es lag dann am Schluss an einem Syntax Fehler. Ich habe mich wohl iergendwann verschrieben
 - [ ] **wenn noch zeit vorhanden ist, weitere feartures hinzufügen**
       
-
+**05.12.23**
+- [ ] **Da wir in dieser Woche die Modulprüfung haben möchte ich in der Klasse das ganze Moduk repetieren.**
+- [ ] **Ich möchte alle unklarheiten über das Modul 162 klähren.**
+- [ ] **Wenn möglich möchte ich mich mit anderen Schülern austauschen.**
 
 hier ein Experiment mit farben in github readme.md
 ```diff
