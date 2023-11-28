@@ -77,8 +77,8 @@ Es gab eine Planänderung und ich habe mit David unser Snake Projekt angefangen(
 - [ ] **Code verstehen** WinFonms ist neuland für mich und dauert deshalb länger, ich bin nicht so weit gekommen wie ich wollte.
 
 **28.11.23**
-- [ ]**Den Fehler im Snake Programm fixen(Button macht nicht das was er sollte)**
-- [ ]**wenn noch zeit vorhanden ist, weitere feartures hinzufügen**
+- [ ] **Den Fehler im Snake Programm fixen(Button macht nicht das was er sollte)**
+- [ ] **wenn noch zeit vorhanden ist, weitere feartures hinzufügen**
       
 
 
