@@ -62,7 +62,7 @@ Es gab eine Planänderung und ich habe mit David unser Snake Projekt angefangen(
 
 
 **14.04.23**
-- [ ] **Verschlüsselung Fixen** Hat noch nicht so funktioniert. https://github.com/ZTCKamikaze/ProjectD hier ist das repo
+- [ ] **Verschlüsselung Fixen** Hat noch nicht so funktioniert wie wir wollten, wir sind dran die Fehler zu Identifizieren, was sich aber schwieriger als gedacht herausstellte. https://github.com/ZTCKamikaze/ProjectD hier ist das repo
 - [ ] **Debuggen** Sind dran/in Verarbeitung
 
 |Eingabe|Verarbeitung|Ausgabe|
@@ -73,9 +73,13 @@ Es gab eine Planänderung und ich habe mit David unser Snake Projekt angefangen(
 - [ ] **Andere Verschlüsselung** Wir haben noch nicht nagefangen die Vinére Verschlüsselung zu programmieren.
 
 **21.11.23**
-- [ ] **Am Snake Tutorial die Arbeit Fortsetzen**
-- [ ] **Code verstehen**
-- [ ] 
+- [x] **Am Snake Tutorial die Arbeit Fortsetzen** Die hälfte ohne Probleme geschaft, bin dann auf einem Fehlter gestossen
+- [ ] **Code verstehen** WinFonms ist neuland für mich und dauert deshalb länger, ich bin nicht so weit gekommen wie ich wollte.
+
+**28.11.23**
+- [ ]**Den Fehler im Snake Programm fixen(Button macht nicht das was er sollte)**
+- [ ]**wenn noch zeit vorhanden ist, weitere feartures hinzufügen**
+      
 
 
 hier ein Experiment mit farben in github readme.md
