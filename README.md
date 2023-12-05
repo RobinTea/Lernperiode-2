@@ -81,11 +81,11 @@ Es gab eine Planänderung und ich habe mit David unser Snake Projekt angefangen(
 - [ ] **wenn noch zeit vorhanden ist, weitere feartures hinzufügen**
       
 **05.12.23**
-- [ ] **Da wir in dieser Woche die Modulprüfung haben möchte ich in der Klasse das ganze Modul repetieren.**
+- [x] **Da wir in dieser Woche die Modulprüfung haben möchte ich in der Klasse das ganze Modul repetieren.**
       Ich konnte die Zeit gut investieren und habe mich bei meinen Kollegen informiert und bin jetzt vorbereiteter als zuvor. Ausserdem hat mir die aufgabe 6950 geholfen. Ich habe sie jedoch nicht fertigstellen können.
 - [x] **Ich möchte alle unklarheiten über das Modul 162 klähren.**
       Ich konnte die Lehrering kontaktieren. Sie hat meine Fragen und unsicherheiten beantwortet. 
-- [ ] **Aoc**
+- [x] **Aoc**
       das *adventofcode.com* oder Aoc ist mir schon bereits von einer anderen Lehrperson empfohlen worden. Heute habe ich 2 goldene Sterne gesammelt. weiter kam ich nicht da ich für ein Projekt weiterarbeitete. (verschlüsselung entschlüsselung von Frau Kilberg)
 
 **12.12.23**
