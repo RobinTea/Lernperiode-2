@@ -88,7 +88,7 @@ Es gab eine Planänderung und ich habe mit David unser Snake Projekt angefangen(
 - [x] **Aoc**
       das *adventofcode.com* oder Aoc ist mir schon bereits von einer anderen Lehrperson empfohlen worden. Heute habe ich 2 goldene Sterne gesammelt. weiter kam ich nicht da ich für ein Projekt weiterarbeitete. (verschlüsselung entschlüsselung von Frau Kilberg)
 
-**12.12.23**
+**12.12.23 / OPL** 
 - [ ] **Snake weiter verfeinern**
 - [ ] **evt. Tik Tak Toe starten**
 - [ ] **Aoc**
