@@ -82,7 +82,7 @@ Es gab eine Planänderung und ich habe mit David unser Snake Projekt angefangen(
       
 **05.12.23**
 - [ ] **Da wir in dieser Woche die Modulprüfung haben möchte ich in der Klasse das ganze Moduk repetieren.**
-- [ ] **Ich möchte alle unklarheiten über das Modul 162 klähren.**
+- [x] **Ich möchte alle unklarheiten über das Modul 162 klähren.**
 - [ ] **Wenn möglich möchte ich mich mit anderen Schülern austauschen.**
 
 hier ein Experiment mit farben in github readme.md
