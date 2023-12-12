@@ -89,8 +89,8 @@ Es gab eine Planänderung und ich habe mit David unser Snake Projekt angefangen(
       das *adventofcode.com* oder Aoc ist mir schon bereits von einer anderen Lehrperson empfohlen worden. Heute habe ich 2 goldene Sterne gesammelt. weiter kam ich nicht da ich für ein Projekt weiterarbeitete. (verschlüsselung entschlüsselung von Frau Kilberg)
 
 **12.12.23 / OPL** 
-- [ ] **Snake weiter verfeinern**
-- [ ] **evt. Tik Tak Toe starten**
+- [X] **Bilder/Texte einfügen und Dokumentation in der Gruppe besprechen**
+- [X] **Dokumentation abschliessen** Wir konnten die Dokumentation erfolgreich abschliessen. Die Bilder wurden importiert und in die Dokumentation eingebaut. Am Ende konnten wir sie an unserem Lehrer Herr Schmid abgeben (per E-mail).
 - [ ] **Aoc**
 
 hier ein Experiment mit farben in github readme.md
