@@ -91,7 +91,7 @@ Es gab eine Planänderung und ich habe mit David unser Snake Projekt angefangen(
 **12.12.23 / OPL** 
 - [X] **Bilder/Texte einfügen und Dokumentation in der Gruppe besprechen**
 - [X] **Dokumentation abschliessen** Wir konnten die Dokumentation erfolgreich abschliessen. Die Bilder wurden importiert und in die Dokumentation eingebaut. Am Ende konnten wir sie an unserem Lehrer Herr Schmid abgeben (per E-mail).
-- [ ] **Aoc**
+- [ ] **Aoc** Herr Colic hat im Call erwähnt das, dass heutige einfacher währe. Ich hatte heute leider keine Zeit.
 
 hier ein Experiment mit farben in github readme.md
 ```diff
