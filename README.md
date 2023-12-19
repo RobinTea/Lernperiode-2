@@ -98,6 +98,14 @@ Es gab eine Planänderung und ich habe mit David unser Snake Projekt angefangen(
 
 PS: Hier finden sie das Repo für das Projekt: https://github.com/ZTCKamikaze/ProjectD
 
+_____________________________________________________________________
+# Reflexion
+Die zweite Lehrnperiode kommt heute zu Ende. Ich konnte viel neues lernen. Ein grosser Teil von dieser Lernperiode begleitete mich WinForms. Ich finde es toll dass es so viele Anleitungen im Internet gibt. 
+An folgende Projekte wurde gearbeitet:
+- Tik Tak Toe
+- Snake
+- Kryptoverfahren (Ceasar- und Vignèreverschlüsselung)
+
 hier ein Experiment mit farben in github readme.md
 ```diff
 - red text
