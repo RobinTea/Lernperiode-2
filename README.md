@@ -96,6 +96,8 @@ Es gab eine Planänderung und ich habe mit David unser Snake Projekt angefangen(
 **19.12.23 / OPL**
 - [ ] **Unsere Gruppe konnte das Letzte Mal das èrojekt abschliessen. Die Kernfunktion konnte erfolgreihc programmiert werden. Ich habe während dem programmieren der letzten paar Wochen gemerkt, dass viele Gruppen mit WinForms arbeiten. Ich möchte nicht hinterher sein und aus diesem Grund werde ich in WinForm herum experimnetieren (so dass ich wenigstens die Grundlagen kann)**
 
+PS: Hier finden sie das Repo für das Projekt: https://github.com/ZTCKamikaze/ProjectD
+
 hier ein Experiment mit farben in github readme.md
 ```diff
 - red text
