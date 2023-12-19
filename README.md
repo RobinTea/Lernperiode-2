@@ -93,6 +93,9 @@ Es gab eine Planänderung und ich habe mit David unser Snake Projekt angefangen(
 - [X] **Dokumentation abschliessen** Wir konnten die Dokumentation erfolgreich abschliessen. Die Bilder wurden importiert und in die Dokumentation eingebaut. Am Ende konnten wir sie an unserem Lehrer Herr Schmid abgeben (per E-mail).
 - [ ] **Aoc** Herr Colic hat im Call erwähnt das, dass heutige einfacher währe. Ich hatte heute leider keine Zeit.
 
+**19.12.23 / OPL**
+- [ ] **Unsere Gruppe konnte das Letzte Mal das èrojekt abschliessen. Die Kernfunktion konnte erfolgreihc programmiert werden. Ich habe während dem programmieren der letzten paar Wochen gemerkt, dass viele Gruppen mit WinForms arbeiten. Ich möchte nicht hinterher sein und aus diesem Grund werde ich in WinForm herum experimnetieren (so dass ich wenigstens die Grundlagen kann)**
+
 hier ein Experiment mit farben in github readme.md
 ```diff
 - red text
